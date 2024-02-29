@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya000-design
 - 👀 I’m interested in ..AUGMENTED &virtual REALITY 
-- 🌱 I’m currently learning ...PYTHON
+- 🌱 I’m currently learning Machine learning and deeplearnig with leadership
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
